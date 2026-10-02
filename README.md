@@ -39,3 +39,7 @@ Upload the `SKILL.md` file to your Perplexity Computer user settings or Claude C
 ## License
 
 MIT
+
+---
+
+**Built by [Girish Lade](https://ladestack.in)**
